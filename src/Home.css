@@ -1,0 +1,21 @@
+.home{
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.carousel-item > img {
+  max-height: 600px;
+}
+
+.home__row{
+  margin-left: 2px;
+  margin-right: 2px;
+  flex-wrap: wrap;
+  justify-content: center;
+  display: flex;
+  border:1px solid #22254b;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
